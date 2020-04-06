@@ -1,0 +1,44 @@
+Travian Spy reports @ Mon Apr 06 2020 23:29:43 GMT+0300 (Eastern European Summer Time)
+
+Available resources: 54349
+Username: 2w2
+Village: 2w2
+Troops: 467
+
+---------------
+
+Available resources: 41932
+Username: carrera
+Village: ..
+Troops: 87
+
+---------------
+
+Available resources: 104591
+Username: USA
+Village: 1.Washington
+Troops: 152
+
+---------------
+
+Available resources: 41008
+Username: Wizzard
+Village: Kuršėnai
+Troops: 71
+
+---------------
+
+Available resources: 31332
+Username: Gregoris
+Village: Konstantinopolis
+Troops: 247
+
+---------------
+
+Available resources: 59877
+Username: Wizzard
+Village: Kuršėnai
+Troops: 61
+
+---------------
+
